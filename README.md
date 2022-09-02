@@ -20,5 +20,3 @@ This programme is for Malineni Engineering College, Guntur on Blockchain
 
 # Questions
 For questions, do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
-
-# errors
